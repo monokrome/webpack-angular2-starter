@@ -51,7 +51,7 @@ module.exports = require('webpack-validator')({
       hash: false,
       inject: 'body',
       template: './src/index.ejs',
-      title: 'monokro.me',
+      title: 'Example Page Title',
     }),
   ],
 });
